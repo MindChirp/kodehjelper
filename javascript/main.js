@@ -4,3 +4,29 @@
 
 //En erstatning for console.log(); er:
 //teller.write("teksten din her");
+
+function code() {
+//Kod inni her
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+try {
+    code();
+}
+catch(err) {
+    teller.write("Error!: " + err.message);
+}
